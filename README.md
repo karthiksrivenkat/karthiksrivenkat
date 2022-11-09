@@ -1,4 +1,4 @@
-### Hi there 👋
+### Iam karthik 
 
 <!--
 **karthiksrivenkat/karthiksrivenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
